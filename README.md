@@ -19,8 +19,7 @@ Si une vulnérabilité existe quelque part, il y a de bonnes chances que je vais
 ## En apprentissage
 
 ```
-☁️  Cloud Security        ████████░░░░  en cours
-🛠️  Sécurité applicative  ██████░░░░░░  en cours
+☁️  Cloud Security        ███░░░░░░░░░  en cours
 ```
 
 ---
