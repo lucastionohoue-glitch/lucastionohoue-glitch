@@ -1,7 +1,6 @@
 # Hey, je suis Lucas
 
-**Analyste en cybersécurité basé à Montréal, QC
-🎓 Étudiant à l'Université de Montréal**
+**🎓 Étudiant à l'Université de Montréal et Analyste en cybersécurité**
 
 Je détecte, analyse et neutralise les menaces si ça peut être compromis, je veux savoir comment.
 Si une vulnérabilité existe quelque part, il y a de bonnes chances que je vais la trouver avant qu'elle cause des dommages.
