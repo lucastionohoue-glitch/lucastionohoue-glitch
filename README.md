@@ -1,4 +1,4 @@
-# Hey, je suis Lucas
+# Hey, je suis Lucas !
 
 **🎓 Étudiant à l'Université de Montréal et Analyste en cybersécurité**
 
