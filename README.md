@@ -16,7 +16,7 @@ Si une vulnérabilité existe quelque part, il y a de bonnes chances que je vais
 
 ---
 
-## 📚 En apprentissage
+## En apprentissage
 
 ```
 ☁️  Cloud Security        ████████░░░░  en cours
@@ -25,7 +25,7 @@ Si une vulnérabilité existe quelque part, il y a de bonnes chances que je vais
 
 ---
 
-## 🧰 Stack & Outils
+## Stack & Outils
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E00?style=for-the-badge&logo=crowdstrike&logoColor=white)
