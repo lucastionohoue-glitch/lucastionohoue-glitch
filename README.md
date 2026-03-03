@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, je suis Lucas
 
-<!--
-**lucastionohoue-glitch/lucastionohoue-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analyste en cybersécurité** basé à **Montréal, QC**
 
-Here are some ideas to get you started:
+Je détecte, analyse et neutralise les menaces si ça peut être compromis, je veux savoir comment.
+Si une vulnérabilité existe quelque part, il y a de bonnes chances que je vais la trouver avant qu'elle cause des dommages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Ce que je fais
+
+-  **Threat Hunting** — traquer les menaces avant qu'elles frappent
+-  **Incident Response** — analyser, contenir, remédier
+-  **SIEM & Monitoring** — corréler les logs, détecter les anomalies
+-  **Digital Forensics** — comprendre ce qui s'est passé, comment et pourquoi
+
+---
+
+## 📚 En apprentissage
+
+```
+☁️  Cloud Security        ████████░░░░  en cours
+🛠️  Sécurité applicative  ██████░░░░░░  en cours
+```
+
+---
+
+## 🧰 Stack & Outils
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
